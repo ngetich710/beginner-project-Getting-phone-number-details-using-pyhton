@@ -1,4 +1,4 @@
-# beginner-project-Getting-phoe-number-details-using-python
+# beginner-project-Getting-phone-number-details-using-python
 Python beginner project
 Using Random module
 I created this project on my first month of studying python programming
